@@ -1,0 +1,9 @@
+/*#players {
+  display: none;
+}*/
+.active {
+  color: green;
+}
+.img-circle {
+  border-radius: 50%;
+}
